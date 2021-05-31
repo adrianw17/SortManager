@@ -1,0 +1,5 @@
+[TRACE] 2021-05-30 20:38:35.710 [main] Main - this is a trace message
+[TRACE] 2021-05-30 20:40:54.437 [main] Main - this is a trace message
+[TRACE] 2021-05-30 21:01:43.242 [main] Main - this is a trace message
+[TRACE] 2021-05-30 21:14:29.610 [main] Main - this is a trace message
+[ERROR] 2021-05-31 15:49:34.259 [main] Main - ArrayTooSmallException: Array must be larger than one!
